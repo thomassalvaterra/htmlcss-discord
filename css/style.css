@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+}
+
+header{
+    background-image: url(/img/jumbo.png);
+    min-height: 300px;
+}
+
+.menu-column > ul{
+    list-style: none;
+
+}
+
+.dashed{
+    border: dashed 2px black;
+} 
+
+.dashed-white{
+    border: dashed 2px white;
+}
+
+#login-column{
+    text-align: right;
+    border: solid 2 px white;
+    background-color: black;
+    color: white;
+}
+
+#jumbotron{
+    padding: 50px;
+}
+
+.jumbo-content{
+    margin: 0 auto;
+    min-height: 300px;
+}
+
+.minHeight{
+    min-height: 350px;
+}
+
+footer > hr {
+    margin-bottom: 64px;
+}
