@@ -32,6 +32,7 @@
 .w-70 { width: 70%; }
 .w-80 { width: 80%; }
 .w-100 { width: 100%; }
+.w-auto { width: auto; }
 
 /*** PADDING ***/
 
@@ -60,3 +61,8 @@
 .bg-lightcoral {background-color: lightcoral;}
 .bg-aquamarine {background-color: aquamarine;}
 .bg-black {background-color: black;}
+.bg-white {background-color: white;}
+
+
+.cl-white {color: white;}
+.cl-black {color: black;}
